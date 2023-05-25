@@ -1,2 +1,3 @@
 # LinuGPT
- A client of chat gpt on linux terminal
+ Use GPT chat directly in your python terminal, not having to open your browser.
+One of the great positive points, and the fact that you don't need a basic level machine to open the browser and the gpt chat tab (yes, they are very light but there are people with hardware of this level), and another point, and not data collection from your browser, be it chrome, opera, or another, since it will be running directly from your terminal, everything that happens will be between you and openai.
