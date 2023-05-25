@@ -17,7 +17,7 @@ Windows: Need to install:
 
 ### 🔧 Installation
 
-![](https://cdn.icon-icons.com/icons2/1298/PNG/96/2333386-code-linux-os_85584.png) ```Linux```
+![](https://cdn.icon-icons.com/icons2/195/PNG/96/OS_Linux_23399.png) ```Linux```
 
 ![](https://cdn.icon-icons.com/icons2/836/PNG/96/Windows_Phone_icon-icons.com_66782.png) ```Windows```
 
