@@ -19,9 +19,18 @@ Windows: Need to install:
 
 ![](https://cdn.icon-icons.com/icons2/195/PNG/96/OS_Linux_23399.png) ```Linux```
 
+under development
+
 ![](https://cdn.icon-icons.com/icons2/836/PNG/96/Windows_Phone_icon-icons.com_66782.png) ```Windows```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+under development
+
+
+# ignore below - Thanks 
+---------------------------
+
+
+
 
 ## ⚙️ Executando os testes
 
