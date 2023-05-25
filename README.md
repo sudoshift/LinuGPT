@@ -18,6 +18,7 @@ Windows: Need to install: [bash](https://pt.wikipedia.org/wiki/Bash), [python3](
 
 ![](https://www.linux.org/favicon-32x32.png) ```Linux```
 
+![](https://c.s-microsoft.com/favicon.ico) ```Windows```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
