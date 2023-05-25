@@ -11,14 +11,15 @@ A pc with linux, or bash and python3 installed
 
 ```
 Linux: Sunative support;
-Windows: Need to install: (bash)[https://pt.wikipedia.org/wiki/Bash], )python3)[https://www.python.org/]
+Windows: Need to install:
 ```
+[bash](https://pt.wikipedia.org/wiki/Bash), [python3](https://www.python.org/)
 
 ### 🔧 Installation
 
 ![](https://www.linux.org/favicon-32x32.png) ```Linux```
 
-![](https://c.s-microsoft.com/favicon.ico) ```Windows```
+![](https://cdn.icon-icons.com/icons2/836/PNG/96/Windows_Phone_icon-icons.com_66782.png) ```Windows```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
