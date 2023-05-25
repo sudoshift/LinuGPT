@@ -11,7 +11,7 @@ A pc with linux, or bash and python3 installed
 
 ```
 Linux: Sunative support;
-Windows: Need to install: [bash](https://pt.wikipedia.org/wiki/Bash), [python3](https://www.python.org/)
+Windows: Need to install: (bash)[https://pt.wikipedia.org/wiki/Bash], )python3)[https://www.python.org/]
 ```
 
 ### 🔧 Installation
