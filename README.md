@@ -16,7 +16,7 @@ Windows: Need to install: [bash](https://pt.wikipedia.org/wiki/Bash), [python3](
 
 ### 🔧 Installation
 
-```Linux```![linux](https://static-00.iconduck.com/assets.00/linux-icon-211x256-2dg6bgz8.png)
+```Linux```![linux](https://cdn-icons-png.flaticon.com/128/6124/6124995.png)
 
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
